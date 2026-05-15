@@ -2,4 +2,5 @@
 
 meteorology student at MSU Denver
 
-* aochoa16@msudenver.edu
+* [email](aochoa16@msudenver.edu)
+* [linkedIn](https://www.linkedin.com/learning/)
