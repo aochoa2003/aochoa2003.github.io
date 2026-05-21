@@ -3,7 +3,7 @@
 ![Armando profile photo](Img/IMG_4717.jpeg)
 
 
-meteorology student at MSU Denver
+Meteorology student at MSU Denver
 
 * [email](aochoa16@msudenver.edu)
-* [linkedIn](https://www.linkedin.com/learning/)
+* [linkedIn](www.linkedin.com/in/armando-ochoa-486007269)
