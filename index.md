@@ -3,7 +3,7 @@
 ![Armando profile photo](Img/IMG_4717.jpeg)
 
 
-Hello everyone! My name is Armando. I am Meteorology student at MSU Denver. I am Currently an Intern for ESIIL working on an environmental data science project. 
+Hello everyone! My name is Armando. I am Meteorology student at MSU Denver. I am currently an intern for ESIIL working on an environmental data science project. 
 
 
 #### Conatct Information 
